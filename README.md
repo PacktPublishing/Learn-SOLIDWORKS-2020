@@ -21,10 +21,8 @@ If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
 
-
 ## Instructions and Navigations
 All of the code is organized into folders. For example, Chapter02.
-
 
 **Following is what you need for this book:**
 This book is for aspiring engineers, designers, drafting technicians, or anyone looking to get started with the latest version of SOLIDWORKS. Anyone interested in becoming a Certified SOLIDWORKS Associate (CSWA) or Certified SOLIDWORKS Professional (CSWP) will also find this book useful.
@@ -37,7 +35,6 @@ With the following software and hardware list you can run all code files present
 | -------- | ------------------------------------| -----------------------------------|
 | 2-8      | SOLIDWORKS                          | Windows 7 or 10, 64-bit            |
 | 10-15    | SOLIDWORKS                          | Windows 7 or 10, 64-bit            |
-
 
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781789804102_ColorImages.pdf).
