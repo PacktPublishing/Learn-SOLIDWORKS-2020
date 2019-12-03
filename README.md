@@ -36,7 +36,7 @@ With the following software and hardware list you can run all code files present
 | Chapter  | Software required                   | OS required                        |
 | -------- | ------------------------------------| -----------------------------------|
 | 2-8      | SOLIDWORKS                          | Windows 7 or 10, 64-bit            |
-| 10-15    | Rstudio Desktop 0.99.903            | Windows 7 or 10, 64-bit            |
+| 10-15    | SOLIDWORKS                          | Windows 7 or 10, 64-bit            |
 
 
 
