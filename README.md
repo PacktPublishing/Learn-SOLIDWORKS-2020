@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/learn-solidworks-2020/9781789804102)
+-----
+*If you have read this book, please leave a review on [Amazon.com](https://www.amazon.com/gp/product/1789804108).     Potential readers can then use your unbiased opinion to help them make purchase decisions. Thank you. The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # Learn SOLIDWORKS 2020
 
 <a href="https://www.packtpub.com/business-other/learn-solidworks-2020?utm_source=github&utm_medium=repository&utm_campaign=978-1-78980-410-2"><img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781789804102-original.png" alt="Learn SOLIDWORKS 2020" height="256px" align="right"></a>
